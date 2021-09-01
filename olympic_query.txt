@@ -1,0 +1,10 @@
+1.Find out the number of cities participating in olympics of each country  ?
+2.Which city has the largest women participants in olympic?
+3.How many Gold ,Bronze,silver medal each country achieve ?
+4.Number of women participants is highest in which year?
+5.Which team won has the highest number of medals?
+6. which year has the largest participants?
+7. count the number of male and female participants in each sport?
+8.which country has won maximum number of medals?
+9.Arrange country names in ascending order where female candidates did not receive any medals?
+10.Find out the Maximum number of participants in each sports of every country?
